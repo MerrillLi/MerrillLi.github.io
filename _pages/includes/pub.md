@@ -63,7 +63,7 @@ LightNestle: Quick and Accurate Neural Sequential Tensor Completion via Meta Lea
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TDSC [Major Revision] (CCF-A)</div>
+    <div class="badge">IEEE TDSC 2024 (CCF-A)</div>
     <img src='images/EventMon.png' alt="sym" width="100%">
 </div>
 
@@ -71,12 +71,12 @@ LightNestle: Quick and Accurate Neural Sequential Tensor Completion via Meta Lea
 <div class='paper-box-text' markdown="1">
 
 EventMon: Real-Time Event-based Streaming Network Monitoring Data Recovery \\
-**Yuhui Li**, Wei Liang, Kun Xie, Dafang Zhang, Kuan-Ching Li
+**Yuhui Li**, Wei Liang, Kun Xie, Dafang Zhang, Kuan-Ching Li, Neal N. Xiong
 
 <details close><summary>Paper Summary</summary>
 <div markdown="1">
 - **My Roles** : Idea, Experiments, Writing
-- **Abstract** : Existing methods fail to satisfy the requirements of real-time recovery. We propose ResNMMF that achieves ultra-low latency data recovery in network measurement data streams as we process online data as streaming events. In addition, Stream2Batch is proposed to improve training and serving throughput. Extensive experiments show that ResNMMF achieves highly competitive accuracy under anytime inference settings.
+- **Abstract** : Existing methods fail to satisfy the requirements of real-time recovery. We propose EventMon that achieves ultra-low latency data recovery in network measurement data streams via offline graph neural networks and online streaming event encoder architecture. In addition, Stream2Batch is proposed to improve training and serving throughput. Extensive experiments show that EventMon achieves highly competitive accuracy under anytime inference settings.
 </div>
 </details>
 </div>
