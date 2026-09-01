@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "LI Yuhui @ IMCL"
-description              : "PhD Student at HKPolyU"
+description              : "PhD Candidate at HKPolyU"
 repository               : "merrillli/merrillli.github.io"
 
 # SEO Related
@@ -28,7 +28,7 @@ analytics:
 author:
   name             : "Yuhui Li"
   avatar           : "images/lyh.jpeg"
-  bio              : "PhD Student at The Hong Kong Polytechnic University"
+  bio              : "PhD Candidate at The Hong Kong Polytechnic University"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

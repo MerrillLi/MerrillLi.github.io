@@ -27,6 +27,32 @@ Wei Liang, Yuhui Li, Kun Xie, Naixue Xiong, Dafang Zhang, Kuan-Ching Li
 </div>
 </div>
 
+<!-- QuickFix -->
+<div class='paper-box'>
+
+<!-- Paper Image -->
+<div class='paper-box-image'>
+    <div class="badge">IEEE TMC — Revision Submitted</div>
+    <img src='images/QuickFix.svg' alt="QuickFix predictive error compensation workflow" width="100%">
+</div>
+
+<!-- Paper Text -->
+<div class='paper-box-text' markdown="1">
+
+QuickFix: Online Sparse Network Monitoring via Predictive Error Compensation
+\\
+**Yuhui Li**, Yuxiang Zeng, Wei Liang, Cangming Liang, Zulong Diao, Kun Xie, Kenli Li
+
+[**Code**](https://github.com/ZengYuXiang7/QuickFix)
+
+<details close><summary>Paper Summary</summary>
+<div markdown="1">
+- **Abstract** : QuickFix supports online recovery of sparsely sampled network measurements through predictive error compensation and asynchronous model adaptation. Foreground inference corrects recent prediction errors without gradient-based updates, while the base model and embedding predictor are updated in the background.
+</div>
+</details>
+</div>
+</div>
+
 
 ## 📐 Network Measurement
 
@@ -103,6 +129,32 @@ LiteTC: Simplifying Neural Tensor Completion via Knowledge Distillation
 <div markdown="1">
 - **My Roles** : Idea, Experiments, Writing
 - **Abstract** : The neural tensor completions adopted in network data recovery suffer from inefficient inference and difficulty in data retrieval. We propose LiteTC — a knowledge distillation framework that convert arbitrary advance model into a linear dot-product model, achieving both fast inference and retrieval friendly. Experiments demonstrate the conversion only suffer from reasonable recovery accuracy.
+</div>
+</details>
+</div>
+</div>
+
+
+## ⚙️ Edge AI Systems (Submitted)
+
+<div class='paper-box'>
+
+<!-- Paper Image -->
+<div class='paper-box-image'>
+    <div class="badge">IEEE TMC — Submitted</div>
+    <img src='images/ElasticSched.svg' alt="ElasticSched temporal and spatial GPU scheduling" width="100%">
+</div>
+
+<!-- Paper Text -->
+<div class='paper-box-text' markdown="1">
+
+ElasticSched: SLO-Aware Spatio-Temporal Scheduling for Concurrent Edge GPU Inference
+\\
+**Yuhui Li**, Jiannong Cao, Ziheng Qin, Zhaorui Zhang, Mingjin Zhang
+
+<details close><summary>Paper Summary</summary>
+<div markdown="1">
+- **Abstract** : ElasticSched coordinates command release and per-stream GPU capacity across concurrent inference processes. It reconstructs inference progress from intercepted CUDA commands and combines that progress with capacity–latency profiles to select allocations against each request's remaining SLO budget.
 </div>
 </details>
 </div>
@@ -294,4 +346,3 @@ Predicting Drug-Target Interactions via Graph Differential Equations
 
 </div>
 </div>
-
