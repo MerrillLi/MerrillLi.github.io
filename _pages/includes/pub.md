@@ -55,6 +55,8 @@ Wei Liang, Yuhui Li, Kun Xie, Naixue Xiong, Dafang Zhang, Kuan-Ching Li
 </div>
 </div>
 
+## 📐 Network Measurement
+
 <!-- QuickFix -->
 <div class='paper-box'>
 
@@ -73,7 +75,7 @@ QuickFix: Online Sparse Network Monitoring via Predictive Error Compensation
 \\
 **Yuhui Li**, Yuxiang Zeng, Wei Liang, Cangming Liang, Zulong Diao, Kun Xie, Kenli Li
 
-[**Code**](https://github.com/ZengYuXiang7/QuickFix)
+[**Open-source Code**](https://github.com/ZengYuXiang7/QuickFix)
 
 <details close><summary>Paper Summary</summary>
 <div markdown="1">
@@ -82,9 +84,6 @@ QuickFix: Online Sparse Network Monitoring via Predictive Error Compensation
 </details>
 </div>
 </div>
-
-
-## 📐 Network Measurement
 
 <!-- Paper One -->
 <div class='paper-box'>
