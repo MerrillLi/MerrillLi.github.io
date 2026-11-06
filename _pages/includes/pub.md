@@ -60,7 +60,7 @@ Wei Liang, Yuhui Li, Kun Xie, Naixue Xiong, Dafang Zhang, Kuan-Ching Li
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">IEEE TMC — Revision Submitted</div>
+    <div class="badge">IEEE TMC 2026 (CCF-A)</div>
     <a href='images/QuickFix.png'>
         <img src='images/QuickFix.png' alt="QuickFix foreground and background workflow" width="100%">
     </a>
