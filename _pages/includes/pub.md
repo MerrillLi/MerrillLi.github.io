@@ -75,7 +75,7 @@ QuickFix: Online Sparse Network Monitoring via Predictive Error Compensation
 \\
 **Yuhui Li**, Yuxiang Zeng, Wei Liang, Cangming Liang, Zulong Diao, Kun Xie, Kenli Li
 
-[**Open-source Code**](https://github.com/ZengYuXiang7/QuickFix)
+[**Code**](https://github.com/ZengYuXiang7/QuickFix)
 
 <details close><summary>Paper Summary</summary>
 <div markdown="1">
@@ -127,6 +127,8 @@ LightNestle: Quick and Accurate Neural Sequential Tensor Completion via Meta Lea
 
 EventMon: Real-Time Event-based Streaming Network Monitoring Data Recovery \\
 **Yuhui Li**, Wei Liang, Kun Xie, Dafang Zhang, Kuan-Ching Li, Neal N. Xiong
+
+[**Code**](https://github.com/MerrillLi/EventMon)
 
 <details close><summary>Paper Summary</summary>
 <div markdown="1">
